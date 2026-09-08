@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, eu sou a Jéssica! 👋
 
-<!--
-**hikarikoala/hikarikoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Programação de Jogos Digitais**, apaixonada por lógica de programação, design de mecânicas e por transformar ideias em experiências interativas. Uso este espaço para documentar meus estudos e projetos na área de tecnologia e desenvolvimento de games.
 
-Here are some ideas to get you started:
+*   **Momento Atual:** Focando na trilha de Desenvolvimento em Python e aprimorando o uso de controle de versão com Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Em desenvolvimento:** Estruturação de lógicas e criação de primeiros protótipos em motores de jogos.
+
+💻 **Tecnologias e Ferramentas**
+*   **Linguagens:** Python, C#, Java.
+*   **Game Engines:** Unity, Godot, GDevelop.
+*   **Arte 2D/3D & Versionamento:** Blender, Piskel, Sprite Fusion, Git.
+
+📫 **Como me encontrar:**
+*   **GitHub:** [hikarikoala](https://github.com/hikarikoala)
+*   **LinkedIn:** [https://www.linkedin.com/in/jessica-iu-lima/]
